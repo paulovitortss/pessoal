@@ -1,2 +1,4 @@
 # Meu site pessoal
-- Testando habilidades
+> Status do projeto:
+em desenvolvimento
+
